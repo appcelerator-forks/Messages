@@ -2,6 +2,8 @@
 
 Messages is an elegant, simple and powerful messages view [Titanium](https://www.appcelerator.com/titanium/) Module for iOS based on [JSQMessagesViewController](https://github.com/jessesquires/JSQMessagesViewController) from [Jesse Squires](https://github.com/jessesquires).
 
+![Messages iOS](https://d3bql97l1ytoxn.cloudfront.net/app_resources/16086/overview/img6593812315080843669.png)
+
 ### Sample & Documentation
 
 This repository contains a simple Titanium Mobile project with an usage sample of the Messages iOS module
